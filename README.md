@@ -21,7 +21,7 @@ This repository contains the data and Jupyter notebooks developed for **Assignme
 For each task you want to run:
 
 1. Navigate into the task folder (e.g. `tasks/<task-name>/`).
-2. If you see a `data/` folder that contains one or more **.zip** files, **extract them inside that same `data/` folder**.
+2. If you see a `data/` folder that contains one or more **.zip** files, **extract them inside that same folder as the where the code is**.
    - After unzipping, you should have the actual dataset files/folders next to (or replacing) the zip file(s).
    - Keep the folder structure unchanged so the notebooks’ relative paths keep working.
 
