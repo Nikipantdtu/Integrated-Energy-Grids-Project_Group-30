@@ -9,7 +9,7 @@ This repository contains the data and Jupyter notebooks developed for **Assignme
 
 ## How to run
 
-> **Important:** The project data is provided as **.zip files inside the repository folders**. For the notebooks/scripts to find the data correctly, keep the folder structure unchanged.
+> **Important:** The project data is provided as **.zip files inside the repository**. For the notebooks/scripts to find the data correctly, keep the folder structure unchanged.
 
 ### Recommended setup (works best)
 
