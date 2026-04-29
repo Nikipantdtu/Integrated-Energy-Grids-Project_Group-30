@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Integrated Energy Grids — Assignment 2 (Group 30)
 
 This repository contains the data and Jupyter notebooks developed for **Assignment 2** in the **Integrated Energy Grids** course.
@@ -32,4 +31,4 @@ Typical setup (adjust to your environment):
 
 ## Authors
 Group 30 (Integrated Energy Grids course)
-````
+
