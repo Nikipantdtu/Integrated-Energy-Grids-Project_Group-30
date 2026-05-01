@@ -4,19 +4,19 @@ This repository contains the data and Jupyter notebooks developed for **Assignme
 
 ## Contents
 - **Jupyter Notebooks**: main analysis, calculations, and results
-- **Data files**: input datasets used by the notebooks (if applicable)
+- **Data files (zipped)**: input datasets used by the notebooks (if applicable)
 - **Supporting scripts**: small Python utilities (if applicable)
 
 ## How to run
 
-> **Important:** Some datasets are included as **compressed (.zip) archives inside the repository** (especially under the `tasks/` folder) because the raw files are large and could not be committed directly to GitHub. You must unzip these archives *in place* before running the corresponding notebook/task.
+> **Important:** The datasets are included as **compressed (.zip) archives inside the repository** (under the `tasks/` folder) because the raw files are large and could not be committed directly to GitHub. You must unzip these archives *in place - no subfolder* before running the corresponding notebook/task.
 
 ### 1) Download the repository
 
 1. On GitHub, click **Code → Download ZIP** to download the entire repository.
 2. **Extract/unpack** the downloaded repository ZIP to a local folder.
 
-### 2) Unzip task data (required for many tasks)
+### 2) Unzip task data
 
 For each task you want to run:
 
