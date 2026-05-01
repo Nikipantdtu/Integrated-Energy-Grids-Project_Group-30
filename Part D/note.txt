@@ -1,0 +1,11 @@
+1. Network
+Selected Nodes: Germany (DE) as the hub, connected to France (FR), Switzerland (CH), and Austria (AT).
+Capacity: based on the maximum annual physical flows (2017) from ENTSO-E to represent existing grid limits.
+2. Simulation
+Co-optimization: The whole system is jointly optimized for the lowest total cost.
+Technology Mix:
+FR: Fixed existing Nuclear capacity (baseload).
+CH & AT: Included Hydro to reflect Alpine resource reality.
+DE & Others: Extendable Wind, Solar, and OCGT.
+Generally speaking, different countries rely on different generation technologies. Here I choose the
+main 4 technologies for each country (3 for CH).
